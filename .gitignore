@@ -17,3 +17,4 @@ override.tf.json
 .sentinel
 .terraformrc
 terraform.rc
+04.provider/*
